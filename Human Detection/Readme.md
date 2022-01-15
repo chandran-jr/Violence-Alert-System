@@ -10,7 +10,6 @@ http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_
 5. Change ``cap = cv2.VideoCapture('/home/video.mp4')`` code into ``cap = cv2.VideoCapture('/home/testing video.mp4')``
 6. Press the run button
 
-
 ## The colaboratory notebook we used (Dont Touch anything just view the code/output)
 https://colab.research.google.com/drive/1J4176vmrckVk3o74XFShPhkTenBao3zB?usp=sharing
 
