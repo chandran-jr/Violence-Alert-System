@@ -14,5 +14,5 @@ http://download.tensorflow.org/models/object_detection/faster_rcnn_inception_v2_
 ## The colaboratory notebook we used (Dont Touch anything just view the code/output)
 https://colab.research.google.com/drive/1J4176vmrckVk3o74XFShPhkTenBao3zB?usp=sharing
 
-## The blog we used to do this phase (Read for better understanding and better insight into steps)
+## The blog we used to implement this phase (Read for better understanding and better insight into steps)
 https://medium.com/@madhawavidanapathirana/real-time-human-detection-in-computer-vision-part-2-c7eda27115c6
