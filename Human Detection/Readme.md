@@ -1,5 +1,5 @@
 ## Human Detection phase (Phase 1)
-This is phase 1 of our project, ie, real time violence detection alert system.
+This is the phase 1 of our project, ie, real time violence detection alert system.
 
 ## To set up:
 1. Download the human detection.py file and upload it into a google colaboratory session, or just copy paste the entire code into the same.
