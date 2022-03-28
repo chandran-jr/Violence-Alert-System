@@ -8,7 +8,7 @@ https://colab.research.google.com/drive/1uqTZNVmaEZzb89aJq6fvfaa43Gfm5zPa?usp=sh
 https://colab.research.google.com/drive/1SIRThv_Fhz5Ru_rPND5GkwAC135cIOG5?usp=sharing
 
 ## DETAILS
-The `modelnew.h5` file is the trained file, we trained it for 50 epochs only. Feel free to use it.
+The `modelnew.h5` file is the trained model, we trained it for 50 epochs only. An accuracy of `96%` was obtained. Feel free to use it.
 
 The testing videos for the violence and non violence classes are in the `Testing Videos`folder
 
