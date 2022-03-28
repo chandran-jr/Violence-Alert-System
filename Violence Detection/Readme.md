@@ -12,6 +12,10 @@ The `modelnew.h5` file is the trained model, we trained it for 50 epochs only. A
 
 The testing videos for the violence and non violence classes are in the `Testing Videos`folder
 
+## DATASET FOR TRAINING
+https://www.kaggle.com/datasets/mohamedmustafa/real-life-violence-situations-dataset
+We have used only 350 videos from each category (violence and non-violence) out of 1000.
+
 
 
 
