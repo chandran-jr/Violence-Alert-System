@@ -1,6 +1,8 @@
 ## MOBILENETV2 TRAINING COLAB NOTEBOOK
 https://colab.research.google.com/drive/1pHW_BLuxmvY6VDbHnG_oZBr5HJBvHGK_?usp=sharing
 
+(Run this file on a local jupyter notebook on a laptop with NVIDIA GPU installed)
+
 ## VIOLENT VIDEO TESTING COLAB NOTEBOOK
 https://colab.research.google.com/drive/1uqTZNVmaEZzb89aJq6fvfaa43Gfm5zPa?usp=sharing
 
