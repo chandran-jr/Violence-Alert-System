@@ -7,7 +7,8 @@ https://colab.research.google.com/drive/1uqTZNVmaEZzb89aJq6fvfaa43Gfm5zPa?usp=sh
 ## NON-VIOLENT VIDEO TESTING COLAB NOTEBOOK
 https://colab.research.google.com/drive/1SIRThv_Fhz5Ru_rPND5GkwAC135cIOG5?usp=sharing
 
-The `modelnew.h5` file is the trained file, we trained it for 50 epochs only
+## DETAILS
+The `modelnew.h5` file is the trained file, we trained it for 50 epochs only. Feel free to use it.
 
 
 
