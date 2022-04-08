@@ -1,3 +1,6 @@
+## YOUTUBE VIDEO FOR EXPLANATION
+https://youtu.be/D4mjEBgAXPU
+
 ## MOBILENETV2 TRAINING COLAB NOTEBOOK
 https://colab.research.google.com/drive/1pHW_BLuxmvY6VDbHnG_oZBr5HJBvHGK_?usp=sharing
 
