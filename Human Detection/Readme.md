@@ -1,6 +1,9 @@
 ## Human Detection phase (Phase 1)
 This is the phase 1 of our project, ie, real time violence detection alert system.
 
+## YOUTUBE VIDEO FOR EXPLANATION
+https://youtu.be/gJ_B291YuLo
+
 ## To set up:
 1. Download the human detection.py file and upload it into a google colaboratory session, or just copy paste the entire code into the same.
 2. Select GPU from the runtime session options in "Change Runtime Type" in "Runtime"
