@@ -1,5 +1,5 @@
 # Real-Time-Violence-Detection
-A real-time violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system for alerting concerned authorities,
+A real-time violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system built using telegram for alerting concerned authorities
 
 ## Stage 1 (Human Detection) ✔✔
 A real-time human detector using `Faster RCNN Inception V2 COCO model`, implemented using Python. Main purpose was comparing 3 pretrained models for speed and accuracy.
