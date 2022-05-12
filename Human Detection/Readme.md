@@ -1,5 +1,5 @@
 ## Human Detection phase (Phase 1)
-This is the phase 1 of our project, ie, real time violence detection alert system.
+This is the stage 1 of our project, ie, real time violence detection alert system.
 
 ## YOUTUBE VIDEO FOR EXPLANATION
 https://youtu.be/gJ_B291YuLo
