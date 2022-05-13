@@ -1,4 +1,4 @@
-# Real-Time-Violence-Detection
+# Real-Time-Violence-Alert-Detection
 A real-time violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system built using telegram for alerting concerned authorities
 
 ## Stage 1 (Human Detection) ✔✔
