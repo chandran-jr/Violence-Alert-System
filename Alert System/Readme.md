@@ -4,7 +4,7 @@
 https://colab.research.google.com/drive/1a5ra5ejumm6qg7TNsPtuHz1-gJqKi2FA?usp=sharing
 
 ## Demo Image of the bot in the Telegram group
-<img src="Demo Telegram screenshot.jpg" width="600px" />
+<img src="demo.jpg" width="600px" />
 
 ## How to build a telegram bot and send messages to groups
 https://www.youtube.com/watch?v=pZpDCfGCIZI
