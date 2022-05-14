@@ -1,3 +1,6 @@
+## YOUTUBE VIDEO FOR EXPLANATION
+https://www.youtube.com/watch?v=LRqZYtNF0Qs
+
 ## Colab Notebook
 https://colab.research.google.com/drive/1a5ra5ejumm6qg7TNsPtuHz1-gJqKi2FA?usp=sharing
 
