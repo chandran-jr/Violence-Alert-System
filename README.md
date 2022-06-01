@@ -9,3 +9,14 @@ A real-time violence detector using `MobileNetV2` pretrained model, giving the o
 
 ## Stage 3 (Alert System) ✔✔
 Creating a telegram bot and a group, adding the bot to the group and whenever violence is detected in any frame, send the 30th `violence=true` frame to the telegram group using the bot, including a message which contains details like Location, Time and Camera ID
+
+## Stage 4 (Image Enhancement) ✔✔
+Enhanced the image using the PIL library in-built in python, by increasing it's sharpness and colour by a factor of 1.2, and saved to the local system.
+The enhanced image is sent via the telegram bot
+
+## Stage 5 (Face Detection) ✔✔
+All the faces obtained in the saved image is plotted and saved on a single image using mtcnn and pyplot and is sent to the telegram group via the bot also.
+
+## Stage 6 (Firebase Integration) ✔✔
+All the data, ie, the date, obtained image and the 'detected faces image' are stored in a neat document object format in the cloud firestore service provide by Google's Firebase. The images are stored as links which and these links are obtained by saving it first in the storage bucket of firebase itself. These data can only be obtained by authorized officials.
+
