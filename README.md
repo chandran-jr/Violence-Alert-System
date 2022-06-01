@@ -2,7 +2,6 @@
 A real-time violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system built using telegram for alerting concerned authorities
 
 ## Architecture Diagram
-
 <img src="Documents/WhatsApp Image 2022-05-31 at 7.28.08 PM.jpeg">
 
 ## Explanation
@@ -27,3 +26,7 @@ All the faces obtained in the saved image is plotted and saved on a single image
 ## Stage 6 (Firebase Integration) ✔✔
 All the data, ie, the date, obtained image and the 'detected faces image' are stored in a neat document object format in the cloud firestore service provide by Google's Firebase. The images are stored as links which and these links are obtained by saving it first in the storage bucket of firebase itself. These data can only be obtained by authorized officials.
 
+## Project done ✔✔
+
+## The Team
+<img src="Documents/IMG_20220601_154920.jpg">
