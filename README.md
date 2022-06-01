@@ -5,6 +5,9 @@ A real-time violence detector using `MobileNetV2` pretrained model and image enh
 
 <img src="Documents/WhatsApp Image 2022-05-31 at 7.28.08 PM.jpeg">
 
+## Explanation
+<img src="Documents/poster.PNG">
+
 ## Stage 1 (Human Detection) ✔✔
 A real-time human detector using `Faster RCNN Inception V2 COCO model`, implemented using Python. Main purpose was comparing 3 pretrained models for speed and accuracy.
 
