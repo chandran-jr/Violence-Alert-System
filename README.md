@@ -28,5 +28,5 @@ All the data, ie, the date, obtained image and the 'detected faces image' are st
 
 ## Project done ✔✔
 
-## The Team
+## The Team ❤
 <img src="Documents/IMG_20220601_154920.jpg">
