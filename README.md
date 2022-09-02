@@ -1,4 +1,4 @@
-# Real Time Violence Alert System
+# Real Time Violence Alert System (FINAL YEAR PROJECT)
 A real-time violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system built using telegram for alerting concerned authorities, and all data stored neatly in cloud firestore
 
 ## WhatsApp me at +91 8330025649 for helping you set up and do the project for yourself for 8,000 INR. 
