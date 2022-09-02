@@ -7,6 +7,9 @@ A real-time violence detector using `MobileNetV2` pretrained model and image enh
 ## Explanation
 <img src="Documents/poster.PNG">
 
+## Contact me at +91 8330025649 for helping you set up and do the project for yourself for 8,000 INR. 
+### (PS: If it's too much, we can work out a deal)
+
 ## Stage 1 (Human Detection) ✔✔
 A real-time human detector using `Faster RCNN Inception V2 COCO model`, implemented using Python. Main purpose was comparing 3 pretrained models for speed and accuracy.
 
