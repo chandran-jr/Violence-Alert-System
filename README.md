@@ -1,14 +1,14 @@
 # Real Time Violence Alert System
 A real-time violence detector using `MobileNetV2` pretrained model and image enhancement algorithms and face detection algorithms implemented using Python, including an alert system built using telegram for alerting concerned authorities, and all data stored neatly in cloud firestore
 
+## WhatsApp me at +91 8330025649 for helping you set up and do the project for yourself for 8,000 INR. 
+(PS: If it's too much, we can work out a deal, I helpfinal year students uually and this is a low price, because other people take 12,000 INR minimum)
+
 ## Architecture Diagram
 <img src="Documents/WhatsApp Image 2022-05-31 at 7.28.08 PM.jpeg">
 
 ## Explanation
 <img src="Documents/poster.PNG">
-
-## Contact me at +91 8330025649 for helping you set up and do the project for yourself for 8,000 INR. 
-### (PS: If it's too much, we can work out a deal)
 
 ## Stage 1 (Human Detection) ✔✔
 A real-time human detector using `Faster RCNN Inception V2 COCO model`, implemented using Python. Main purpose was comparing 3 pretrained models for speed and accuracy.
